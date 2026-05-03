@@ -2,7 +2,7 @@
   "permissions": [
     {
       "roles": ["admin"],
-      "allow": ["stevenanderson524"]
+      "allow": ["stevenanderson524@gmail.com", "standers@adobe.com"]
     }
   ]
 }
